@@ -32,3 +32,14 @@ pip install PyMySQL
 * Search questions by tag, title
 * List of questions of a particular tag when clicked on it
 * View and edit profile
+
+## Screenshots 
+
+ ### Home Page 
+ ![](images/1.png)
+ ### Detailed Question-Answer Page
+ ![](images/2.png)
+ ### Profile Page
+ ![](images/3.png)
+ ### About Us
+ ![](images/4.png)
